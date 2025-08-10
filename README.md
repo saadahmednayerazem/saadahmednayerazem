@@ -4,7 +4,7 @@
 
 I’m a **senior full-stack web developer** with **7+ years** of experience designing and building web products. Below are the core technologies I work with:
 
-**Backend**
+**Backend**  
 ✔ PHP / Laravel  
 ✔ Node.js / NestJS / Express.js  
 ✔ Microservices / Docker / ArgoCD / RabbitMQ  
