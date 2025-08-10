@@ -2,29 +2,25 @@
 
 ## About Me
 
-I'm currently a student diving deep into the world of full stack web development. 
-I'm passionate about building and designing efficient, modern web applications and am constantly learning new technologies to enhance my skills.
+I’m a **senior full-stack web developer** with **7+ years** of experience designing and building web products. Below are the core technologies I work with:
 
-## Technologies & Tools
+**Backend**
+✔ PHP / Laravel
+✔ Node.js / NestJS / Express.js
+✔ Microservices / Docker / ArgoCD / RabbitMQ
+✔ REST API / GraphQL API
+✔ OAuth / JWT
 
-🌐 **Web Development**
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
-- **Backend:** Php, Node.js, Express
-- **Databases:** MySQL, MongoDB
+**Database**
+✔ MySQL / MongoDB / PostgreSQL
 
-🛠️ **Tools & Technologies**
-- **Version Control:** Git, GitHub
-- **Editors:** VSCode
-- **Operating Systems:** Windows, Linux
+**Frontend**
+✔ Next.js / React / TypeScript
+✔ Tailwind CSS / Bootstrap
+✔ HTML5 / CSS3
 
-## Current Learning Path
-
-- 📚 I'm currently learning through various online courses on Udemy focused on Node.js and Artificial Intelligence.
-- 🌱 Growing my understanding of Node.js RESTful services and APIs.
-
+- 📚 I'm currently learning through various online courses on Udemy focused on Artificial Intelligence.
 
 ## Connect with Me
-
 - Email: [saadahmednayerazem@gmail.com](mailto:saadahmednayerazem@gmail.com)
-
 ---
