@@ -11,10 +11,10 @@ I’m a **senior full-stack web developer** with **7+ years** of experience desi
 ✔ REST API / GraphQL API  
 ✔ OAuth / JWT  
 
-**Database**
+**Database**  
 ✔ MySQL / MongoDB / PostgreSQL 
 
-**Frontend**
+**Frontend**  
 ✔ Next.js / React / TypeScript  
 ✔ Tailwind CSS / Bootstrap  
 ✔ HTML5 / CSS3  
